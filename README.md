@@ -41,6 +41,9 @@ Profit Margin = 𝑁𝑀%⋅𝑆𝑃
   
 #### Other Adjustments:
 The Selling Price also accounts for:  
+  
 **Channel Commission:** Charged as 𝐶𝐶%⋅𝑆𝑃.  
-**Returns:** Accounted as 𝑅%⋅𝑆𝑃.
+  
+**Returns:** Accounted as 𝑅%⋅𝑆𝑃.  
+  
 Thus, the Selling Price must cover not only the costs and profit margin but also these percentage-based charges.
