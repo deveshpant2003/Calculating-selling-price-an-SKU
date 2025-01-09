@@ -50,3 +50,11 @@ The Selling Price also accounts for:
 **Returns:** Accounted as 𝑅%⋅𝑆𝑃.  
   
 Thus, the Selling Price must cover not only the costs and profit margin but also these percentage-based charges.
+
+#### Full Equation
+The Selling Price is:  
+
+𝑆𝑃 = Costs + 𝑁𝑀% ⋅ 𝑆𝑃 + 𝐶𝐶% ⋅ 𝑆𝑃 + 𝑅% ⋅ 𝑆𝑃  
+  
+Substitute Costs:  
+𝑆𝑃=(𝑆𝐹 + 𝐵𝑃 + 𝐶𝐹) + (𝑁𝑀% + 𝐶𝐶% + 𝑅%) ⋅ 𝑆𝑃
