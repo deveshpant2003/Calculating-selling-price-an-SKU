@@ -23,3 +23,24 @@ To derive the formula for the Selling Price (𝑆𝑃) of an SKU, let’s break 
 **Returns (𝑅%=𝑅/100):** The expected percentage of returned items relative to the Selling Price.  
 
 **Selling Price (𝑆𝑃):** The price at which the SKU is sold to achieve the desired profit margin.
+
+### Revenue (Selling Price - Costs)
+The Selling Price must cover all the associated costs and margins. Therefore:  
+
+𝑆𝑃 = Costs + Profit Margin  
+
+#### Costs Breakdown
+The total cost includes:  
+
+Costs = 𝑆𝐹 + 𝐵𝑃 +𝐶𝐹  
+
+#### Profit Margin:  
+The profit margin is calculated as a percentage (𝑁𝑀%) of the Selling Price:  
+
+Profit Margin = 𝑁𝑀%⋅𝑆𝑃  
+  
+#### Other Adjustments:
+The Selling Price also accounts for:  
+**Channel Commission:** Charged as 𝐶𝐶%⋅𝑆𝑃.  
+**Returns:** Accounted as 𝑅%⋅𝑆𝑃.
+Thus, the Selling Price must cover not only the costs and profit margin but also these percentage-based charges.
