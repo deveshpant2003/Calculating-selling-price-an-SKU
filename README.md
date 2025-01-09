@@ -5,55 +5,18 @@ The following formula is used in calculation of selling price: $$\frac{Storage F
 
 ## Derivation of the formula
 To derive the formula for the Selling Price (𝑆𝑃) of an SKU, let’s break it down step-by-step based on the given terms:
-Storage Fee (𝑆𝐹
-): The cost of storing the SKU.
-Buying Price (
-𝐵
-𝑃
-): The cost to procure the SKU.
-Closing Fee (
-𝐶
-𝐹
-): Any fixed cost incurred while completing the sale.
-Net Margin (
-𝑁
-𝑀
-%
-=
-𝑁
-𝑀
-/
-100
-): The desired profit margin expressed as a percentage of the Selling Price.
-Channel Commission (
-𝐶
-𝐶
-%
-=
-𝐶
-𝐶
-/
-100
-): The percentage commission charged by the sales channel.
-Returns (
-𝑅
-%
-=
-𝑅
-/
-100
-): The expected percentage of returned items relative to the Selling Price.
-Selling Price (
-𝑆
-𝑃
-): The price at which the SKU is sold to achieve the desired profit margin.
 
+### Terms and Variables:
+Storage Fee (𝑆𝐹): The cost of storing the SKU. 
 
+Buying Price (𝐵𝑃): The cost to procure the SKU.  
 
+Closing Fee (𝐶𝐹): Any fixed cost incurred while completing the sale.  
 
+Net Margin (𝑁𝑀%=𝑁𝑀/100): The desired profit margin expressed as a percentage of the Selling Price.  
 
+Channel Commission (𝐶𝐶%=𝐶𝐶/100): The percentage commission charged by the sales channel.  
 
+Returns (𝑅%=𝑅/100): The expected percentage of returned items relative to the Selling Price.  
 
-
-
- 
+Selling Price (𝑆𝑃): The price at which the SKU is sold to achieve the desired profit margin.
