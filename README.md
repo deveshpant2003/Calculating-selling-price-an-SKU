@@ -4,7 +4,10 @@ I have demonstrated how one can calculate the selling price for SKUs (Stock Keep
 The following formula is used in calculation of selling price:  
 
   
-$$\frac{Storage Fee + Buying Price + Closing Fee}{Net Margin Rate + Channel Commission Rate + Returns Rate}$$
+$$
+\frac{\text{Storage Fee} \ + \ \text{Buying Price} \ + \ \text{Closing Fee}}
+{\text{Net Margin Rate} \ + \ \text{Channel Commission Rate} \ + \ \text{Returns Rate}}
+$$
 
 ## Derivation of the formula
 To derive the formula for the Selling Price (𝑆𝑃) of an SKU, let’s break it down step-by-step based on the given terms:
