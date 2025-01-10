@@ -69,4 +69,4 @@ Finally, divide both sides by (1 − (𝑁𝑀% + 𝐶𝐶% + 𝑅%)):
 
 ### Conclusion
 The Selling Price is derived as:  
-𝑆𝑃 = = $$\frac{\text{Storage Fee} + \text{Buying Price} + \text{Closing Fee}}{1 - (\text{Net Margin%} + \text{Channel Commission%} + \text{Returns%})}$$
+𝑆𝑃 = = $$\frac{\text{Storage Fee} + \text{Buying Price} + \text{Closing Fee}}{1 - (\text{Net Margin Rate} + \text{Channel Commission Rate} + \text{Returns Rate})}$$
