@@ -51,7 +51,6 @@ The Selling Price also accounts for:
   
 Thus, the Selling Price must cover not only the costs and profit margin but also these percentage-based charges.
 
-#### Full Equation
 The Selling Price is:  
 
 𝑆𝑃 = Costs + 𝑁𝑀% ⋅ 𝑆𝑃 + 𝐶𝐶% ⋅ 𝑆𝑃 + 𝑅% ⋅ 𝑆𝑃  
@@ -59,50 +58,12 @@ The Selling Price is:
 Substitute Costs:  
 𝑆𝑃=(𝑆𝐹 + 𝐵𝑃 + 𝐶𝐹) + (𝑁𝑀% + 𝐶𝐶% + 𝑅%) ⋅ 𝑆𝑃  
 
- #### Isolate Selling Price (𝑆𝑃)
-
- Rearrange to solve for 𝑆𝑃:  
+Rearrange to solve for 𝑆𝑃:  
 𝑆𝑃 −(𝑁𝑀% + 𝐶𝐶% + 𝑅%) ⋅ 𝑆𝑃 = 𝑆𝐹 + 𝐵𝑃 + 𝐶𝐹  
 
 Factorize 𝑆𝑃:  
-𝑆𝑃 ⋅ (1 − (𝑁
-𝑀
-%
-+
-𝐶
-𝐶
-%
-+
-𝑅
-%
-)
-)
-=
-𝑆
-𝐹
-+
-𝐵
-𝑃
-+
-𝐶
-𝐹
-SP⋅(1−(NM%+CC%+R%))=SF+BP+CF
-Finally, divide both sides by 
-(
-1
-−
-(
-𝑁
-𝑀
-%
-+
-𝐶
-𝐶
-%
-+
-𝑅
-%
-)
-)
-(1−(NM%+CC%+R%)):
+𝑆𝑃 ⋅ (1 − (𝑁𝑀% + 𝐶𝐶% + 𝑅%)) = 𝑆𝐹 + 𝐵𝑃 + 𝐶𝐹  
+
+Finally, divide both sides by (1 − (𝑁𝑀% + 𝐶𝐶% + 𝑅%)):  
+𝑆𝑃 = $$\frac{𝑆𝐹 \+\ 𝐵𝑃 \+\ 𝐶𝐹}{ 1\ − \(𝑁𝑀%\ + \𝐶𝐶% + \𝑅%)}$$
 
