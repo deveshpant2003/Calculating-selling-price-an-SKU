@@ -65,5 +65,8 @@ Factorize 𝑆𝑃:
 𝑆𝑃 ⋅ (1 − (𝑁𝑀% + 𝐶𝐶% + 𝑅%)) = 𝑆𝐹 + 𝐵𝑃 + 𝐶𝐹  
 
 Finally, divide both sides by (1 − (𝑁𝑀% + 𝐶𝐶% + 𝑅%)):  
-𝑆𝑃 = $$\frac{𝑆𝐹 \+\ 𝐵𝑃 \+\ 𝐶𝐹}{ 1\ − \(𝑁𝑀\%\ + \𝐶𝐶\% + \𝑅\%)}$$
+𝑆𝑃 = $$\frac{𝑆𝐹 \+\ 𝐵𝑃 \+\ 𝐶𝐹}{ 1\ − \(\text{𝑁𝑀%}\ + \text{𝐶𝐶%}\ + \text{𝑅%}\)}$$
 
+### Conclusion
+The Selling Price is derived as:  
+𝑆𝑃 = $$\frac{Storage\ Fee\+\Buying\ Price\+\Closing\ Fee}{1\−\(\Net\ \text{Margin%}\+\Channel\ \text{Commission%}\+\ \text{Returns%}\)
